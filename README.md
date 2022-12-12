@@ -1,5 +1,5 @@
 # CIFAR10-HOG-SVM
-Classifier for CIFAR-10. HOG feature extraction with RBF SVM. 62% test accuracy.
+Classifier for CIFAR-10. Grayscaling, HOG, PCA, and RBF SVM. 62% test accuracy.
 
 # Dimensionality Reduction
 
