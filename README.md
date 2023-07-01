@@ -1,6 +1,22 @@
 # CIFAR10-HOG-SVM
 Classifier for CIFAR-10. Grayscaling, HOG, PCA, and RBF SVM. 62% test accuracy. This classifier does NOT use any neural network or convolutional filters/layers/kernels.
 
+# Running the Code
+
+## Google Colab
+Add the following code as the first cell:
+```
+!pip install scikit-learn-intelex
+```
+Then, run the rest of the cells.
+
+## Local
+Install the following packages:
+```
+pip install scikit-learn sklearn-intelex scikit-image numpy matplotlib opencv-python tqdm joblib
+```
+Then, run the code.
+
 # Dimensionality Reduction
 
 1. Input `32x32x3 => 3072`
