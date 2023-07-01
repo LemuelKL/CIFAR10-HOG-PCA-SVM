@@ -34,7 +34,7 @@ Then, run the code.
 # Time Complexity
 
 - This training time of this non-linear SVM grows faster than linear time against the number of samples
-- Training takes 5 minutes on Google Colab Free
+- Training takes 3 minutes on Google Colab Free
 - Scoring against the test dataset takes 1 minuite
 
 # Accuracy
